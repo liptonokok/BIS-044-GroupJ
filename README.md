@@ -9,3 +9,5 @@ Two variables:
 https://data.bls.gov/timeseries/LNS14000000
 2. Number of cumulative cases of coronavirus in the United States from January 22 to October 20, 2020, by day
 https://www.statista.com/statistics/1103185/cumulative-coronavirus-covid19-cases-number-us-by-day/
+
+For methodologies, we are going to use the summary command to analyze the data first. And then we will use the two dataset to make a graph with regression line to show the relationship between two variables.
